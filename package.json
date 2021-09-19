@@ -1,0 +1,17 @@
+{
+  "name": "volume_winners_calculation",
+  "version": "1.0.0",
+  "description": "This is the script used to calculate milestone winners and their shares",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "volume",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "big.js": "^6.1.1",
+    "bignumber.js": "^9.0.1",
+    "dotenv": "^10.0.0",
+    "web3": "^1.5.2"
+  }
+}
